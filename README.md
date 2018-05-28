@@ -166,3 +166,5 @@
 2. 完成学员考核页
 3. 调查界面按back键直接退出应用Bug,是由于android的activity里的flutterView造成的
 4. 调查主页不显示item问题，是由于每次setState()方法之后都重新new了一个List对象造成的。
+5. 完成驳回学员页
+6. 完成入班申请页
