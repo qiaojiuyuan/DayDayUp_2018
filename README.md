@@ -439,3 +439,5 @@ flutter界面好像没有办法实现，只能用android原生来用这块，但
 2. 调通接口
 3. 修改cookie编码错误问题
 4. 今天上午看了下flutter官方的例子，学习了WillPopScope这个组件的用法，还有Backdrop也了解了一些，这两个可以看完源码学会了做一个分享。
+5. 学习异步async、await和Future的使用技巧，这个也可以做一个分享
+
